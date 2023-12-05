@@ -65,6 +65,7 @@
 		C05822F42B1D92CA00828CDD /* view model */ = {
 			isa = PBXGroup;
 			children = (
+				C05822E82B1D88FA00828CDD /* ModelDataManager.swift */,
 				C05822F52B1D92E200828CDD /* NavigationStateManager.swift */,
 			);
 			path = "view model";
@@ -130,7 +131,6 @@
 			isa = PBXGroup;
 			children = (
 				C05822E22B1D867600828CDD /* ThirdTabView.swift */,
-				C05822E82B1D88FA00828CDD /* ModelDataManager.swift */,
 				C05822EA2B1D89E500828CDD /* RootView.swift */,
 				C05822EC2B1D8CE700828CDD /* SongDetailView.swift */,
 				C05822EE2B1D8CF500828CDD /* MovieDetailView.swift */,
